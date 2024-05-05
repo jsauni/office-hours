@@ -1,0 +1,4 @@
+git/ignore_me/
+
+git/logs/*.log
+!git/logs/dontignoreme.log
